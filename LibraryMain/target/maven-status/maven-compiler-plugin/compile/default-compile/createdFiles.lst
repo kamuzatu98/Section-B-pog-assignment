@@ -1,0 +1,4 @@
+com\mycompany\librarymain\LibraryMain.class
+com\mycompany\librarymain\Book.class
+com\mycompany\librarymain\FictionBook.class
+com\mycompany\librarymain\NonFictionBook.class
